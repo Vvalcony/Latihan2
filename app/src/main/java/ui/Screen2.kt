@@ -1,4 +1,4 @@
-package com.example.lathan_2.ui
+package com.example.latihan_2.ui
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
