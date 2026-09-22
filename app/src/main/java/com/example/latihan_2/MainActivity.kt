@@ -11,8 +11,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.tugasnavigasi.ui.Screen1
-import com.example.tugasnavigasi.ui.Screen2
+import com.example.latihan_2.ui.Screen1
+import com.example.latihan_2.ui.Screen2
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
